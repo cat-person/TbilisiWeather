@@ -7,4 +7,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+open_weather_api.properties
 *.jar
